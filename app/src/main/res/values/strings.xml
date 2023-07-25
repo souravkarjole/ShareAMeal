@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="choose_your_rolee">choose_your_rolee</string>
+    <string name="donor">donor</string>
+    <string name="volunteer">volunteer</string>
+    <string name="choose_your_role">Choose your role</string>
+    <string name="create_account">CREATE ACCOUNT.</string>
+    <string name="don_t_have_an_account">Don\'t have an account?.</string>
+    <string name="hi_nplease_login">Hi,\nPlease Login</string>
+    <string name="foodiefest">Foodiefest</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">About us</string>
+    <string name="my_listing">My Listing</string>
+    <string name="account">Account</string>
+    <string name="users_near_me">Users near me</string>
+    <string name="log_out">Log out</string>
+    <string name="name">Name</string>
+    <string name="business">Business</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="help_center">Help Center</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="_91">+91</string>
+
+    <string-array name="time_array">
+        <item>time</item>
+        <item>12-3</item>
+        <item>3-5</item>
+        <item>5-7</item>
+        <item>7-9</item>
+        <item>9-11</item>
+        <item>10-12</item>
+    </string-array>
+
+    <string-array name="time_periods_array">
+        <item>-</item>
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+
+    <string-array name="states_array">
+        <item>Select states</item>
+        <item>Maharashtra</item>
+        <!-- Add more Indian states here -->
+    </string-array>
+
+    <string-array name="cities_array">
+        <item>Select cities</item>
+        <item>Akola</item>
+        <item>Amravati</item>
+        <item>Aurangabad</item>
+        <item>Barshi</item>
+        <item>Beed</item>
+        <item>Bhiwandi</item>
+        <item>Jalgaon</item>
+        <item>Kolhapur</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nashik</item>
+        <item>Pune</item>
+        <item>Panvel</item>
+        <item>Sangli</item>
+        <item>Solapur</item>
+        <item>Satara</item>
+        <!-- Add more cities for each state here -->
+    </string-array>
+</resources>
